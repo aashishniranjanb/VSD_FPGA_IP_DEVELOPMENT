@@ -1,4 +1,4 @@
-# Task-1: Understanding Check
+# Task-1: 
 
 ## 1. Where is the RISC-V program located in the `vsd-riscv2` repository?
 The RISC-V program is located in the software source directory of the `vsd-riscv2` repository, which contains the C or assembly files used as the reference application executed by the RISC-V core.
